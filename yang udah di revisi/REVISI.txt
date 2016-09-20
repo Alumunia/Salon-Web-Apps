@@ -1,0 +1,72 @@
+
+
+
+Revisi :
+
+Input training :(ihsan)
+(sudah)load ajax gk main
+(sudah)Nama muncul sugest
+(sudah)KTP hapus
+(sudah)Tipe ditambah "Khusus"
+(ga jelas)Tambah Keterangan(testimoni/apapun)
+(sudah)informasi produk yang pernah dibeli tarik data Ajax filed
+(sudah)Harga diganti Biaya karena jasa
+(sudah)Tambah filed sertifikat
+(sudah)Tambah Field Lokasi
+(sudah)-Tambah Entry Lokasi
+
+*Personal Data :
+(sudah)Pake suggest
+ (testimoni) (*tampilin di field Personal Data - semua data - transaksi secara perorangan *UID telp sama Nama) print
+nama,alamat,gol usia,no HP,(90%)
+<!--------IHSAN------->
+Input produk :
+(sudah)load ajax gk main
+(sudah)KTP hapus
+(belum)Gambar bisa diganti
+(sudah)Persen diganti pengeluaran angka
+(sudah)laporan gk usah kasih persen
+,--------------ihsan--------->
+
+<---faris------>
+(DONE) administrasi hanya super admin
+(DONE) Laporan keuangan hanya super admin
+(DONE) edit harga satuan hanya super admin
+(DONE) Super admin bisa edit para admin
+<-------->
+
+Laporan training:
+(DONE)"print laporan bulanan perserta training"
+keterangan diganti nomor sertifikat
+
+Data Laporan Keuangan:(sudah)
+
+Saldo ganti total(SUDAH)
+Dibawahnya kasih Grand Total (T.kredit-Tdebit)(SUDAH)
+Keterangan Hapus(SUDAH)
+Print pengeluaran gk usah, langsung kasih tombol print aja.(SUDAH)
+
+Table Invoice :(SUDAH)
+discount Persen dihapus(SUDAH)
+
+
+Print Label Alamat :
+(BELUM)Sortir berdasarkan nama tapi pake suggest (list)
+
+administrator :
+Super admin bisa edit admin-admin (sudah)
+
+search dan profile hilangin
+State yg dipilih sidebar active(SUDAH)
+
+(lagi dibikin)Print laporan bulanan peserta keterangan diganti no sertifikat
+
+<!-----REVISI DARI BANG HANDOKO----------->
+
+Edit diganti Delete di table_unit(SUDAH)
+Tambahin keteragan di input produk
+no sertfikat cuma 
+tambahin testi di input training dan di tambahin di persob]nal data
+
+
+<!------------------------?
